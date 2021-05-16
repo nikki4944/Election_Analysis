@@ -7,8 +7,7 @@ In this deliverable, we were tasked with performing a vote audit to certify Cong
 In this analysis, I used Python and Visual Studio Code to write a code determining how many ballots were cast and the winning candidate. This code also breaks the data down to determine how many ballots, and the percentage of total ballots, were cast in each county in the district as well as how many votes, and the percentage of total votes, each candidate in the election received.
 
 ## Election Audit Results
-I determined the following results for the audit from the provided vote data:
-1. Using the following code, I determined the total number votes cast in the election, the number of candidates on the ballot, and the amount of ballots cast in each county in the district.
+Using the following code, I determined the total number votes cast in the election, the number of candidates on the ballot, and the amount of ballots cast in each county in the district.
 <img width="924" alt="County and Candidate Vote Totals" src="https://user-images.githubusercontent.com/82982901/118411467-b97d9f00-b662-11eb-831e-1c0723881104.png">
 This code provided the vote county breakdown by candidate and county to be:
 * 369,711 total votes were cast in the election
